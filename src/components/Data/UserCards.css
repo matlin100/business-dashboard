@@ -1,0 +1,12 @@
+/* card.css */
+
+.no-data-message {
+    padding: 10px;
+    border: 1px solid blue;
+    width: 30%;
+    border-radius: 5px;
+    margin-right: auto;
+    color: #4A90E2;
+    text-align: center;
+  }
+  
