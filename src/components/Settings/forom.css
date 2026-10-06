@@ -1,0 +1,10 @@
+.user-field {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px; /* Add spacing between user data fields */
+  }
+  
+.user-icon {
+    margin-right: 8px;
+    color: #007BFF; /* You can change the color as needed */
+  }
